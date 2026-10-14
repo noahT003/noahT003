@@ -13,6 +13,6 @@ Statistics and Data Science student at Bucknell University with research experie
 
 R / RStudio (ggplot2, tidyverse), Python (pandas, NumPy, scikit-learn, matplotlib, seaborn), Excel, SAS, MATLAB, Mathematica, arcGIS
 
-##Technical Skills
+## Technical Skills
 
 Statistical Modeling, Data Cleaning & Wrangling, Data Visualization, Quantitative Research, Team Leadership, Presentation & Communication
