@@ -7,7 +7,7 @@ Statistics and Data Science student at Bucknell University with research experie
 - [Analysis of Engagement with Academic Resources for Students in Introductory Chemistry](link)
 - [Presidential Election Voter Behavior Analysis](link)
 - [EPA Grant Distribution Analysis](link)
-- [Analysis of Blake Bortles' Performance on the Jacksonville Jaguars](link)
+- [Analysis of Blake Bortles' Performance on the Jacksonville Jaguars](https://github.com/noahT003/Blake-Bortles-Analysis)
 
 ## Programs Used
 
