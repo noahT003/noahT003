@@ -4,7 +4,7 @@ Statistics and Data Science student at Bucknell University with research experie
 
 ## Featured Projects
 - [ShiftMed User Analysis](https://github.com/noahT003/ShiftMed-User-Analysis)
-- [Analysis of Engagement with Academic Resources for Students in Introductory Chemistry](link)
+- [Analysis of Engagement with Academic Resources for Students in Introductory Chemistry](https://github.com/noahT003/Analysis-of-Engagement-with-Academic-Resources-in-Introductory-Chemistry)
 - [Presidential Election Voter Behavior Analysis](https://github.com/noahT003/Presidential-Election-Voter-Behavior-Analysis)
 - [EPA Grant Distribution Analysis](https://github.com/noahT003/EPA-Grant-Distribution-Analysis)
 - [Analysis of Blake Bortles' Performance on the Jacksonville Jaguars](https://github.com/noahT003/Blake-Bortles-Analysis)
